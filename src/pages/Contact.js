@@ -5,7 +5,7 @@ import React from 'react';
 
 function Contact() {
   return (
-    <section>
+    <section className='contact'>
         <h2>Contactame</h2>
         <p>Puedes contactarme a traves de mi correo electronico:</p>
         <h2>jaredcsv@proton.me</h2>
